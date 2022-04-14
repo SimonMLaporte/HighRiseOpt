@@ -1,5 +1,6 @@
 # HighRiseOpt
-File dump for my bachelor thesis
+File dump for my bachelor thesis  
+Note project is in danish
 
 Appendix 1 - Grasshopper models  
 Appendix 2 - Optimization process  
